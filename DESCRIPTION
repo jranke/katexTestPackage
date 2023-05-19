@@ -1,0 +1,11 @@
+Package: katexTestPackage
+Type: Package
+Title: Concise Summary of What the Package Does
+Version: 1.0
+Date: 2023-05-19
+Author: Johannes Ranke
+Maintainer: Johannes Ranke <johannes.ranke@jrwb.de>
+Description: More about what it does (maybe more than one line).
+License: GPL (>= 2)
+Encoding: UTF-8
+RoxygenNote: 7.2.3
